@@ -36,4 +36,7 @@
   .sticky-nav {
     @apply bg-white/50 border-b border-[#DCE1FD] backdrop-blur-2xl transition-all duration-500;
   }
+  input:checked div.arrow {
+    @apply bg-black;
+  }
 }
