@@ -1,0 +1,16 @@
+{
+  "name": "weserve-hosting-provider-website-design",
+  "version": "1.0.0",
+  "description": "WeServe Hosting Provider Website Design is ready-to-use Figma template for building UI/UX design project to achieve the bigger results in terms of user-experience.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./assets/css/style.css -o ./dist/main.css --watch"
+  },
+  "author": "Rauliqbal",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  }
+}
